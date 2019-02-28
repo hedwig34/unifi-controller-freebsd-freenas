@@ -46,7 +46,7 @@ To install the controller software and the rc script:
 2. Run this one-line command, which downloads the install script from Github and executes it with sh or copy install_unifi.sh file to new file and sh ./filename.sh and your controller will be running when complete.
 
   ```
-    fetch -o install-unifi.sh https://raw.githubusercontent.com/TechButton/unifi-controller-freebsd-freenas/master/install-unifi/install-unifi.sh
+    fetch -o install-unifi.sh https://raw.githubusercontent.com/hedwig34/unifi-controller-freebsd-freenas/master/install-unifi/install-unifi.sh
   ```
 Or
 
